@@ -1,10 +1,10 @@
-Premium ExpressVPN Cliente | suporte P2P + suporte IKEv2 é o melhor ExpressVPN cliente com suporte P2P e suporte IKEv2. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/expressvpn-se48/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
