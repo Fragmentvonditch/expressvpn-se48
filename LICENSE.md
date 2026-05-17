@@ -1,10 +1,10 @@
-高级ExpressVPN客户端 | P2P支持 + IKEv2支持 是最佳 ExpressVPN 客户端，集成 P2P支持 和 IKEv2支持。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/expressvpn-se48/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
